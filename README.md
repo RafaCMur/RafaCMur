@@ -59,17 +59,9 @@
 <h3 align="center">Connect with Me</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rafael-cabanillas/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/RafaCMur">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:rafacabanillasm@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
+  <a href="https://www.linkedin.com/in/rafael-cabanillas/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://github.com/RafaCMur"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="mailto:rafacabanillasm@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
 

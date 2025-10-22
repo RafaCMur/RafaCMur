@@ -11,16 +11,23 @@ My name is Rafa, and I'm a fullstack developer trained in React and interested i
 - 🌱 Learning **Deep Learning** and **Rust** for Web3 and AI-focused development.
 - ⚡ Fun fact: I use an e-ink phone to avoid distractions.
 
-<h3>🚀 Featured Projects</h3>
+<h3 align="center">🚀 Featured Projects</h3>
 
-<p>
+<p align="center">
   <a href="https://github.com/RafaCMur/MoneyBoard">
-    <img src="https://img.shields.io/badge/MoneyBoard-%20Finance%20Tracker-1e3c72?style=for-the-badge&logo=tauri&logoColor=white" />
+    <img src="https://via.placeholder.com/120x120.png?text=MoneyBoard" width="120" alt="MoneyBoard Logo"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://chromewebstore.google.com/detail/true-resonance/fbjmobmlgofjclebagmnabejchajaifm">
-    <img src="https://img.shields.io/badge/True%20Resonance-%20432Hz%20Audio%20Tuner-2a5298?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://via.placeholder.com/120x120.png?text=True+Resonance" width="120" alt="True Resonance Logo"/>
   </a>
 </p>
+
+<p align="center">
+  <b>MoneyBoard</b> — Multi-currency finance tracker built with Tauri & React.<br>
+  <b>True Resonance</b> — 432 Hz audio tuner Chrome extension.
+</p>
+
 
 
 <h3>⚙️ Tech Stack</h3>

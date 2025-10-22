@@ -11,7 +11,7 @@ My name is Rafa, and I'm a fullstack developer trained in React and interested i
 
 <h3 align="center">🚀 Featured Projects</h3>
 
-<p align="center">
+<p>
   <a href="https://github.com/RafaCMur/MoneyBoard">
     <img src="https://img.shields.io/badge/MoneyBoard-%20Finance%20Tracker-1e3c72?style=for-the-badge&logo=tauri&logoColor=white" />
   </a>

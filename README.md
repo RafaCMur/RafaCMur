@@ -3,21 +3,17 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=180&section=header&text=Rafael%20Cabanillas%20Murillo&fontSize=36&fontColor=ffffff&fontAlignY=35" />
 </p>
 
-<h2 align="center">Hey there 👋</h2>
+<h2>Hey there 👋</h2>
 
-<p align="center">
+<p>
   My name is <b>Rafa</b>, and I'm a fullstack developer focused on web, mobile, and AI projects.
 </p>
 
-<table align="center">
-<tr><td align="center">
 <ul>
   <li>🔭 Working on <b>MoneyBoard</b> (finance tracker) and <b>True Resonance</b> (432 Hz <i>open-source</i> audio tuner).</li>
   <li>🌱 Learning <b>Deep Learning</b> and <b>Rust</b> for Web3 and AI-focused development.</li>
   <li>⚡ Fun fact: I use an <b>e-ink phone</b> to stay focused.</li>
 </ul>
-</td></tr>
-</table>
 
 
 <h3 align="center">🚀 Featured Projects</h3>

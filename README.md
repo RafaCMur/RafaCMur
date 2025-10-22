@@ -10,8 +10,8 @@
 </p>
 
 <ul>
-  <li>🔭 Working on <b>MoneyBoard</b> (finance tracker) and <b>True Resonance</b> (432 Hz <i>open-source</i> audio tuner).</li>
-  <li>🌱 Learning <b>Deep Learning</b> and <b>Rust</b> for Web3 and AI-focused development.</li>
+  <li>🔭 Working on <b>[MoneyBoard](https://moneyboard.seltore.com)</b> (finance tracker) and <b>![True Resonance](https://chromewebstore.google.com/detail/true-resonance/fbjmobmlgofjclebagmnabejchajaifm)</b> (432 Hz <i>open-source</i> audio tuner).</li>
+  <li>🌱 Learning <b>Deep Learning</b>, <b>Rust</b>, and <b>Sales</b> to connect tech and business.</li>
   <li>⚡ Fun fact: I use an <b>e-ink phone</b> to stay focused.</li>
 </ul>
 
@@ -21,7 +21,7 @@
 <table align="center">
   <tr valign="middle">
     <td align="center" width="50%">
-      <a href="https://moneyboard.seltore.com/">
+      <a href="https://moneyboard.seltore.com">
         <img src="https://github.com/user-attachments/assets/57edd320-25be-4414-ba97-403f9680b4ad" width="170" alt="MoneyBoard Logo" />
       </a>
       <h4><b>MoneyBoard</b></h4>

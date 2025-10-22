@@ -23,7 +23,7 @@
   <tr>
     <td align="center" width="50%" valign="top">
       <a href="https://moneyboard.seltore.com/">
-        <img src="https://github.com/user-attachments/assets/57edd320-25be-4414-ba97-403f9680b4ad" width="150" height="150" alt="MoneyBoard Logo" />
+        <img src="https://github.com/user-attachments/assets/57edd320-25be-4414-ba97-403f9680b4ad" width="170" height="170" alt="MoneyBoard Logo" />
       </a>
       <h4><b>MoneyBoard</b></h4>
       <p>Cross-platform finance tracker built with Tauri, React, and TypeScript.</p>

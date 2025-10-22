@@ -13,20 +13,24 @@ My name is Rafa, and I'm a fullstack developer trained in React and interested i
 
 <h3 align="center">🚀 Featured Projects</h3>
 
-<p align="center">
+<table align="center">
+<tr>
+<td align="center" width="50%">
   <a href="https://github.com/RafaCMur/MoneyBoard">
-    <img src="https://via.placeholder.com/120x120.png?text=MoneyBoard" width="120" alt="MoneyBoard Logo"/>
+    <img src="https://via.placeholder.com/200x120.png?text=MoneyBoard" width="200" alt="MoneyBoard Logo"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  <p><b>MoneyBoard</b><br>
+  Cross-platform finance tracker built with Tauri, React, and TypeScript.</p>
+</td>
+<td align="center" width="50%">
   <a href="https://chromewebstore.google.com/detail/true-resonance/fbjmobmlgofjclebagmnabejchajaifm">
-    <img src="https://via.placeholder.com/120x120.png?text=True+Resonance" width="120" alt="True Resonance Logo"/>
+    <img src="https://via.placeholder.com/200x120.png?text=True+Resonance" width="200" alt="True Resonance Logo"/>
   </a>
-</p>
-
-<p align="center">
-  <b>MoneyBoard</b> — Multi-currency finance tracker built with Tauri & React.<br>
-  <b>True Resonance</b> — 432 Hz audio tuner Chrome extension.
-</p>
+  <p><b>True Resonance</b><br>
+  Chrome extension that tunes online audio to 432 Hz in real time.</p>
+</td>
+</tr>
+</table>
 
 
 

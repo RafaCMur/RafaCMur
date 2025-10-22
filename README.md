@@ -18,7 +18,8 @@
 
 <h3 align="center">🚀 Featured Projects</h3>
 
-<table align="center" width="100%">
+<div align="center">
+<table border="0">
   <tr>
     <td align="center" width="50%" valign="top">
       <a href="https://moneyboard.seltore.com/">
@@ -36,6 +37,7 @@
     </td>
   </tr>
 </table>
+</div>
 
 
 

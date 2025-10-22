@@ -9,11 +9,15 @@
   My name is <b>Rafa</b>, and I'm a fullstack developer focused on web, mobile, and AI projects.
 </p>
 
+<table align="center">
+<tr><td align="center">
 <ul>
   <li>🔭 Working on <b>MoneyBoard</b> (finance tracker) and <b>True Resonance</b> (432 Hz <i>open-source</i> audio tuner).</li>
   <li>🌱 Learning <b>Deep Learning</b> and <b>Rust</b> for Web3 and AI-focused development.</li>
   <li>⚡ Fun fact: I use an <b>e-ink phone</b> to stay focused.</li>
 </ul>
+</td></tr>
+</table>
 
 
 <h3 align="center">🚀 Featured Projects</h3>
@@ -55,7 +59,7 @@
 </p>
 
 
-<h3>Connect with Me</h3>
+<h3 align="center">Connect with Me</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rafael-cabanillas/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>

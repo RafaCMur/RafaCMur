@@ -9,7 +9,7 @@ My name is Rafa, and I'm a fullstack developer trained in React and interested i
 - 🌱 Learning **Deep Learning** and **Rust** for Web3 and AI-focused development.
 - ⚡ Fun fact: I use an e-ink phone to avoid distractions.
 
-<h3 align="center">🚀 Featured Projects</h3>
+<h3>🚀 Featured Projects</h3>
 
 <p>
   <a href="https://github.com/RafaCMur/MoneyBoard">

@@ -18,26 +18,24 @@
 
 <h3 align="center">🚀 Featured Projects</h3>
 
-<div align="center">
-<table border="0">
-  <tr>
-    <td align="center" width="50%" valign="top">
+<table align="center">
+  <tr valign="middle">
+    <td align="center" width="50%">
       <a href="https://moneyboard.seltore.com/">
-        <img src="https://github.com/user-attachments/assets/57edd320-25be-4414-ba97-403f9680b4ad" width="170" height="170" alt="MoneyBoard Logo" />
+        <img src="https://github.com/user-attachments/assets/57edd320-25be-4414-ba97-403f9680b4ad" width="170" alt="MoneyBoard Logo" />
       </a>
       <h4><b>MoneyBoard</b></h4>
       <p>Cross-platform finance tracker built with Tauri, React, and TypeScript.</p>
     </td>
-    <td align="center" width="50%" valign="top">
+    <td align="center" width="50%">
       <a href="https://chromewebstore.google.com/detail/true-resonance/fbjmobmlgofjclebagmnabejchajaifm">
-        <img src="https://github.com/user-attachments/assets/7cd367e9-79f1-4266-b269-a67b1d0b11dd" width="150" height="150" alt="True Resonance Logo" />
+        <img src="https://github.com/user-attachments/assets/7cd367e9-79f1-4266-b269-a67b1d0b11dd" width="150" alt="True Resonance Logo" />
       </a>
       <h4><b>True Resonance</b></h4>
       <p>Chrome extension that tunes online audio to 432 Hz in real time.</p>
     </td>
   </tr>
 </table>
-</div>
 
 
 

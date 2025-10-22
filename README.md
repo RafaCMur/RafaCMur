@@ -3,13 +3,18 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=180&section=header&text=Rafael%20Cabanillas%20Murillo&fontSize=36&fontColor=ffffff&fontAlignY=35" />
 </p>
 
-## Hey there 👋
+<h2 align="center">Hey there 👋</h2>
 
-My name is Rafa, and I'm a fullstack developer trained in React and interested in web, mobile, and AI projects!
+<p align="center">
+  My name is <b>Rafa</b>, and I'm a fullstack developer focused on web, mobile, and AI projects.
+</p>
 
-- 🔭 I’m currently working on cross-platform apps like **MoneyBoard** (finance tracker) and **True Resonance** (432 Hz *open-source* audio tuner).  
-- 🌱 Learning **Deep Learning** and **Rust** for Web3 and AI-focused development.
-- ⚡ Fun fact: I use an e-ink phone to avoid distractions.
+<ul>
+  <li>🔭 Working on <b>MoneyBoard</b> (finance tracker) and <b>True Resonance</b> (432 Hz <i>open-source</i> audio tuner).</li>
+  <li>🌱 Learning <b>Deep Learning</b> and <b>Rust</b> for Web3 and AI-focused development.</li>
+  <li>⚡ Fun fact: I use an <b>e-ink phone</b> to stay focused.</li>
+</ul>
+
 
 <h3 align="center">🚀 Featured Projects</h3>
 

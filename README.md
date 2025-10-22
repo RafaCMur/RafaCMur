@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=160&section=header&text=Rafael%20Cabanillas%20Murillo&fontSize=36&fontColor=ffffff&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=170&section=header&text=Rafael%20Cabanillas%20Murillo&fontSize=36&fontColor=ffffff&fontAlignY=35" />
 </p>
 
 <h2>Hey there 👋</h2>

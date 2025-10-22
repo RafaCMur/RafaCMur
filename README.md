@@ -16,7 +16,7 @@ My name is Rafa, and I'm a fullstack developer trained in React and interested i
 <table align="center">
 <tr>
 <td align="center" width="50%">
-  <a href="https://moneyboard.seltore.com/" style="padding-top:1rem;">
+  <a href="https://moneyboard.seltore.com/"><br>
     <img width="170" height="170" alt="moneyboard-logo" src="https://github.com/user-attachments/assets/57edd320-25be-4414-ba97-403f9680b4ad" alt="MoneyBoard Logo"/>
   </a>
   <p><b>MoneyBoard</b><br>

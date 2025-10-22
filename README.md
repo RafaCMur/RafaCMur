@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hey there 👋
+
+My name is Rafa, and I'm a fullstack developer trained in React and interested in web, mobile, and AI projects!
+
+- 🔭 I’m currently working on cross-platform apps like **MoneyBoard** (finance tracker) and **True Resonance** (432 Hz *open-source* audio tuner).  
+- 🌱 Learning **Deep Learning** and **Rust** for Web3 and AI-focused development.  
+- 👯 Open to collaborating on **frontend** or **crypto** and **finance** projects.
+- 💬 Ask me about **React**, **TypeScript**, **node.js** or **Tauri**.
+- ⚡ Fun fact: I use an e-ink phone to avoid distractions.
 
 <!--
 **RafaCMur/RafaCMur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

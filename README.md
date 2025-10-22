@@ -12,12 +12,15 @@ My name is Rafa, and I'm a fullstack developer trained in React and interested i
 ### ⚙️ Tech Stack
 ![React](https://skillicons.dev/icons?i=react)
 ![typescript](https://skillicons.dev/icons?i=typescript)
-![rust](https://skillicons.dev/icons?i=rust)
-![tauri](https://skillicons.dev/icons?i=tauri)
+![nextjs](https://skillicons.dev/icons?i=nextjs)
+![azure](https://skillicons.dev/icons?i=azure)
+![tailwind](https://skillicons.dev/icons?i=tailwind)
 ![nodejs](https://skillicons.dev/icons?i=nodejs)
 ![python](https://skillicons.dev/icons?i=python)
+![tauri](https://skillicons.dev/icons?i=tauri)
+![firebase](https://skillicons.dev/icons?i=firebase)
 ![git](https://skillicons.dev/icons?i=git)
-![vscode](https://skillicons.dev/icons?i=vscode)
+
 
 <!--
 **RafaCMur/RafaCMur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

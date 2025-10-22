@@ -17,7 +17,7 @@ My name is Rafa, and I'm a fullstack developer trained in React and interested i
 <tr>
 <td align="center" width="50%">
   <a href="https://moneyboard.seltore.com/">
-    <img width="150" height="150" alt="moneyboard-logo" src="https://github.com/user-attachments/assets/57edd320-25be-4414-ba97-403f9680b4ad" alt="MoneyBoard Logo"/>
+    <img width="170" height="170" alt="moneyboard-logo" src="https://github.com/user-attachments/assets/57edd320-25be-4414-ba97-403f9680b4ad" alt="MoneyBoard Logo"/>
   </a>
   <p><b>MoneyBoard</b><br>
   Cross-platform finance tracker built with Tauri, React, and TypeScript.</p>

@@ -13,8 +13,6 @@ My name is Rafa, and I'm a fullstack developer trained in React and interested i
 
 <h3 align="center">🚀 Featured Projects</h3>
 
-<h3 align="center">🚀 Featured Projects</h3>
-
 <table align="center" width="100%">
   <tr>
     <td align="center" width="50%" valign="top">

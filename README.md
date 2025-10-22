@@ -6,10 +6,18 @@
 My name is Rafa, and I'm a fullstack developer trained in React and interested in web, mobile, and AI projects!
 
 - 🔭 I’m currently working on cross-platform apps like **MoneyBoard** (finance tracker) and **True Resonance** (432 Hz *open-source* audio tuner).  
-- 🌱 Learning **Deep Learning** and **Rust** for Web3 and AI-focused development.  
-- 👯 Open to collaborating on **frontend** or **crypto** and **finance** projects.
-- 💬 Ask me about **React**, **TypeScript**, **node.js** or **Tauri**.
+- 🌱 Learning **Deep Learning** and **Rust** for Web3 and AI-focused development.
 - ⚡ Fun fact: I use an e-ink phone to avoid distractions.
+
+### ⚙️ Tech Stack
+![React](https://skillicons.dev/icons?i=react)
+![typescript](https://skillicons.dev/icons?i=typescript)
+![rust](https://skillicons.dev/icons?i=rust)
+![tauri](https://skillicons.dev/icons?i=tauri)
+![nodejs](https://skillicons.dev/icons?i=nodejs)
+![python](https://skillicons.dev/icons?i=python)
+![git](https://skillicons.dev/icons?i=git)
+![vscode](https://skillicons.dev/icons?i=vscode)
 
 <!--
 **RafaCMur/RafaCMur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

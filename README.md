@@ -9,6 +9,18 @@ My name is Rafa, and I'm a fullstack developer trained in React and interested i
 - 🌱 Learning **Deep Learning** and **Rust** for Web3 and AI-focused development.
 - ⚡ Fun fact: I use an e-ink phone to avoid distractions.
 
+<h3 align="center">🚀 Featured Projects</h3>
+
+<p align="center">
+  <a href="https://github.com/RafaCMur/MoneyBoard">
+    <img src="https://img.shields.io/badge/MoneyBoard-%20Finance%20Tracker-1e3c72?style=for-the-badge&logo=tauri&logoColor=white" />
+  </a>
+  <a href="https://chromewebstore.google.com/detail/true-resonance/fbjmobmlgofjclebagmnabejchajaifm">
+    <img src="https://img.shields.io/badge/True%20Resonance-%20432Hz%20Audio%20Tuner-2a5298?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+</p>
+
+
 <h3 align="center">⚙️ Tech Stack</h3>
 
 <p align="center" style="margin-bottom:-5px;">

@@ -39,7 +39,7 @@
 
 
 
-
+<br>
 <p align="center" style="margin-bottom:-5px;">
   <img src="https://img.shields.io/badge/-%20-%20?style=for-the-badge&color=1e3c72&labelColor=2a5298&logoWidth=0" width="100%" height="3px"/>
 </p>
@@ -53,6 +53,7 @@
 <p align="center" style="margin-top:-8px;">
   <img src="https://img.shields.io/badge/-%20-%20?style=for-the-badge&color=2a5298&labelColor=1e3c72&logoWidth=0" width="100%" height="3px"/>
 </p>
+<br>
 
 
 <h3 align="center">Connect with Me</h3>

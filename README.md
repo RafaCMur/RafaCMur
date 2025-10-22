@@ -1,3 +1,6 @@
+<!-- Banner -->
+![RafaCMur Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=180&section=header&text=Rafa%20Cabanillas%20Murillo&fontSize=36&fontColor=ffffff&fontAlignY=35)
+
 ## Hey there 👋
 
 My name is Rafa, and I'm a fullstack developer trained in React and interested in web, mobile, and AI projects!

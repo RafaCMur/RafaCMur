@@ -1,5 +1,5 @@
 <!-- Banner -->
-![RafaCMur Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=180&section=header&text=Rafa%20Cabanillas%20Murillo&fontSize=36&fontColor=ffffff&fontAlignY=35)
+![RafaCMur Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=180&section=header&text=Rafael%20Cabanillas%20Murillo&fontSize=36&fontColor=ffffff&fontAlignY=35)
 
 ## Hey there 👋
 

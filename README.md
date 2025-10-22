@@ -13,24 +13,27 @@ My name is Rafa, and I'm a fullstack developer trained in React and interested i
 
 <h3 align="center">🚀 Featured Projects</h3>
 
-<table align="center">
-<tr>
-<td align="center" width="50%">
-  <a href="https://moneyboard.seltore.com/"><br>
-    <img width="170" height="170" alt="moneyboard-logo" src="https://github.com/user-attachments/assets/57edd320-25be-4414-ba97-403f9680b4ad" alt="MoneyBoard Logo"/>
-  </a>
-  <p><b>MoneyBoard</b><br>
-  Cross-platform finance tracker built with Tauri, React, and TypeScript.</p>
-</td>
-<td align="center" width="50%">
-  <a href="https://chromewebstore.google.com/detail/true-resonance/fbjmobmlgofjclebagmnabejchajaifm">
-    <img src="https://github.com/user-attachments/assets/7cd367e9-79f1-4266-b269-a67b1d0b11dd" width="150" alt="True Resonance Logo"/>
-  </a>
-  <p><b>True Resonance</b><br>
-  Chrome extension that tunes online audio to 432 Hz in real time.</p>
-</td>
-</tr>
+<h3 align="center">🚀 Featured Projects</h3>
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <a href="https://moneyboard.seltore.com/">
+        <img src="https://github.com/user-attachments/assets/57edd320-25be-4414-ba97-403f9680b4ad" width="150" height="150" alt="MoneyBoard Logo" />
+      </a>
+      <h4><b>MoneyBoard</b></h4>
+      <p>Cross-platform finance tracker built with Tauri, React, and TypeScript.</p>
+    </td>
+    <td align="center" width="50%" valign="top">
+      <a href="https://chromewebstore.google.com/detail/true-resonance/fbjmobmlgofjclebagmnabejchajaifm">
+        <img src="https://github.com/user-attachments/assets/7cd367e9-79f1-4266-b269-a67b1d0b11dd" width="150" height="150" alt="True Resonance Logo" />
+      </a>
+      <h4><b>True Resonance</b></h4>
+      <p>Chrome extension that tunes online audio to 432 Hz in real time.</p>
+    </td>
+  </tr>
 </table>
+
 
 
 

@@ -38,7 +38,7 @@ My name is Rafa, and I'm a fullstack developer trained in React and interested i
 </p>
 
 
-<h3 align="center">🤝 Connect with Me</h3>
+<h3>🤝 Connect with Me</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rafacmur/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>

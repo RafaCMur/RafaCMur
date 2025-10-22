@@ -1,4 +1,4 @@
-![true-resonance-logo](https://github.com/user-attachments/assets/7cd367e9-79f1-4266-b269-a67b1d0b11dd)<!-- Banner -->
+<!-- Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=180&section=header&text=Rafael%20Cabanillas%20Murillo&fontSize=36&fontColor=ffffff&fontAlignY=35" />
 </p>
@@ -24,7 +24,7 @@ My name is Rafa, and I'm a fullstack developer trained in React and interested i
 </td>
 <td align="center" width="50%">
   <a href="https://chromewebstore.google.com/detail/true-resonance/fbjmobmlgofjclebagmnabejchajaifm">
-    <img src="https://via.placeholder.com/200x120.png?text=True+Resonance" width="200" alt="True Resonance Logo"/>
+    <img src="https://github.com/user-attachments/assets/7cd367e9-79f1-4266-b269-a67b1d0b11dd" width="200" alt="True Resonance Logo"/>
   </a>
   <p><b>True Resonance</b><br>
   Chrome extension that tunes online audio to 432 Hz in real time.</p>

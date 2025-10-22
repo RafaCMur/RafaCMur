@@ -9,17 +9,12 @@ My name is Rafa, and I'm a fullstack developer trained in React and interested i
 - 🌱 Learning **Deep Learning** and **Rust** for Web3 and AI-focused development.
 - ⚡ Fun fact: I use an e-ink phone to avoid distractions.
 
-### ⚙️ Tech Stack
-![React](https://skillicons.dev/icons?i=react)
-![typescript](https://skillicons.dev/icons?i=typescript)
-![nextjs](https://skillicons.dev/icons?i=nextjs)
-![azure](https://skillicons.dev/icons?i=azure)
-![tailwind](https://skillicons.dev/icons?i=tailwind)
-![nodejs](https://skillicons.dev/icons?i=nodejs)
-![python](https://skillicons.dev/icons?i=python)
-![tauri](https://skillicons.dev/icons?i=tauri)
-![firebase](https://skillicons.dev/icons?i=firebase)
-![git](https://skillicons.dev/icons?i=git)
+<h3 align="center">⚙️ Tech Stack</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,typescript,nextjs,azure,tailwind,nodejs,python,tauri,firebase,git" />
+</p>
+
 
 
 <!--

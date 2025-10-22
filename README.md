@@ -11,9 +11,21 @@ My name is Rafa, and I'm a fullstack developer trained in React and interested i
 
 <h3 align="center">⚙️ Tech Stack</h3>
 
+<!-- Gradient Divider -->
+<p align="center">
+  <img src="https://img.shields.io/badge/-%20-%20?style=for-the-badge&color=1e3c72&labelColor=2a5298&logoWidth=0" width="100%" height="3px"/>
+</p>
+
+<h3 align="center">⚙️ Tech Stack</h3>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,typescript,nextjs,azure,tailwind,nodejs,python,tauri,firebase,git" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-%20-%20?style=for-the-badge&color=2a5298&labelColor=1e3c72&logoWidth=0" width="100%" height="3px"/>
+</p>
+
 
 
 

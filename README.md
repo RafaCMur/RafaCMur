@@ -16,6 +16,12 @@
 
 <h3 align="center">🚀 Featured Projects</h3>
 
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.trueresonance.player&hl=en_US">
+    <img src="assets/true-resonance-banner.jpg" alt="True Resonance banner" />
+  </a>
+</p>
+
 <table align="center" width="100%">
   <!-- Row 1: logos -->
   <tr>

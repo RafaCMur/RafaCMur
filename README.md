@@ -34,6 +34,8 @@
   </a>
 </p>
 
+<br>
+
 <table align="center" width="100%">
   <!-- Row 1: logos -->
   <tr>

@@ -15,7 +15,7 @@
 - ⚡ Fun fact: I use an **e-ink phone** to stay focused.
 
 
-<h3 align="start">🚀 Featured Projects</h3>
+<h2 align="start">🚀 Featured Projects</h2>
 
 <p align="center">
   <a href="https://play.google.com/store/apps/details?id=com.trueresonance.player&hl=en_US">
@@ -75,7 +75,7 @@
   <img src="https://img.shields.io/badge/-%20-%20?style=for-the-badge&color=1e3c72&labelColor=2a5298&logoWidth=0" width="100%" height="3px"/>
 </p>
 
-<h3 align="center">Tech Stack</h3>
+<h2 align="center">Tech Stack</h2>
 
 <p align="center" style="margin-top:-5px;margin-bottom:-5px;">
   <img src="https://skillicons.dev/icons?i=react,typescript,nextjs,azure,tailwind,nodejs,python,tauri,firebase,git" />
@@ -87,7 +87,7 @@
 <br>
 
 
-<h3 align="center">Connect with Me</h3>
+<h2 align="center">Connect with Me</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rafael-cabanillas/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>

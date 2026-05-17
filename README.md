@@ -9,12 +9,13 @@
   My name is <b>Rafa</b>, and I'm a fullstack developer focused on web, mobile, and AI projects.
 </p>
 
-- 🔭 Working on **[MoneyBoard](https://moneyboard.seltore.com)** (finance tracker) and **[True Resonance](https://chromewebstore.google.com/detail/true-resonance/fbjmobmlgofjclebagmnabejchajaifm)** (432 Hz *open-source* audio tuner).  
-- 🌱 Learning **Deep Learning**, **Rust**, and **Sales** to connect tech and business.  
+- 🔭 Developed **[True Resonance](https://trueresonance.rafacmur.com/)**, a 432 Hz audio tuner trusted by **5K+ users**.
+- 🔭 Working on **[MoneyBoard](https://moneyboard.seltore.com)** (finance tracker).
+- 🌱 Learning **Backend technologies**, **Privacy**, and **Sales** to connect tech and business.
 - ⚡ Fun fact: I use an **e-ink phone** to stay focused.
 
 
-<h3 align="center">🚀 Featured Projects</h3>
+<h3 align="start">🚀 Featured Projects</h3>
 
 <p align="center">
   <a href="https://play.google.com/store/apps/details?id=com.trueresonance.player&hl=en_US">

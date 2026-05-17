@@ -75,7 +75,7 @@
   <img src="https://img.shields.io/badge/-%20-%20?style=for-the-badge&color=1e3c72&labelColor=2a5298&logoWidth=0" width="100%" height="3px"/>
 </p>
 
-<h2 align="center">Tech Stack</h2>
+<h3 align="center">Tech Stack</h3>
 
 <p align="center" style="margin-top:-5px;margin-bottom:-5px;">
   <img src="https://skillicons.dev/icons?i=react,typescript,nextjs,azure,tailwind,nodejs,python,tauri,firebase,git" />
@@ -87,7 +87,7 @@
 <br>
 
 
-<h2 align="center">Connect with Me</h2>
+<h3 align="center">Connect with Me</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rafael-cabanillas/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>

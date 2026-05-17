@@ -14,6 +14,7 @@
 - 🌱 Learning **Backend technologies**, **Privacy**, and **Sales** to connect tech and business.
 - ⚡ Fun fact: I use an **e-ink phone** to stay focused.
 
+<br>
 
 <h2 align="start">🚀 Featured Projects</h2>
 

@@ -23,6 +23,17 @@
   </a>
 </p>
 
+<p align="center">
+  <b>True Resonance</b> is a modern 432 Hz audio player with real-time tuning, designed for calm, focused listening.<br>
+  Trusted by <b>5K+ listeners</b>.
+</p>
+
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.trueresonance.player&hl=en_US">
+    <img src="https://img.shields.io/badge/Google%20Play-Get%20the%20app-3DDC84?style=for-the-badge&logo=googleplay&logoColor=white" />
+  </a>
+</p>
+
 <table align="center" width="100%">
   <!-- Row 1: logos -->
   <tr>

@@ -19,7 +19,7 @@
 <h2 align="start">🚀 Featured Projects</h2>
 
 <p align="center">
-  <a href="https://play.google.com/store/apps/details?id=com.trueresonance.player&hl=en_US">
+  <a href="https://play.google.com/store/apps/details?id=com.trueresonance.player&hl=en_US" target="_blank" rel="noopener noreferrer">
     <img src="assets/true-resonance-banner.jpg" alt="True Resonance banner" />
   </a>
 </p>
@@ -30,7 +30,7 @@
 </p>
 
 <p align="center">
-  <a href="https://play.google.com/store/apps/details?id=com.trueresonance.player&hl=en_US">
+  <a href="https://play.google.com/store/apps/details?id=com.trueresonance.player&hl=en_US" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Google%20Play-Get%20the%20app-3DDC84?style=for-the-badge&logo=googleplay&logoColor=white" />
   </a>
 </p>
